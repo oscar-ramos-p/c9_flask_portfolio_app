@@ -1,5 +1,5 @@
-# Flask Portfolio App for The Profitable Programmer Students...
-Flask Portfolio App for students @ Clever Programmer deployed from Cloud 9
+# Example Flask Portfolio App for Profitable Programmer ...
+Flask Portfolio App @ Clever Programmer
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
